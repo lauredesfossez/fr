@@ -33,7 +33,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "copyricht, Laure Desfossez, Laure, Desfossez, portfolio, grafisch ontwerp",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header1",
@@ -154,7 +154,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/abstract-nature-compr.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/abstract-nature-compr-1.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -178,6 +178,13 @@
             "Theme"
           ],
           "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "36px",
+              "text-align": "left",
+              "color": "#efefef"
+            }
+          },
           "_anchor": "content6-p",
           "_params": {
             "paddingTop": 1,
@@ -185,21 +192,14 @@
             "bgColor": "#000000"
           },
           "text1": "<p>Je me présente, Je m’appelle Laure Desfossez et à ce moment je suis en 3ème année Design Graphique. Pendant les années j’ai réaliser que mon éducation n’est pas seulement une formation pour notre diplôme mais c’est beaucoup plus. Chaque semestre on voit une evolution de l’identité du graphiste. Premièrement j’ai appris moi-même comme personne. Secondairement les intérêts vont grandir en finalement je crée mon propre identité dans mes travaux.&nbsp;</p>",
-          "text2": "<p>Laure Desfossez</p><p>3BBK Design Graphique</p><p>LUCA Sint-Lucas Gand Belgique</p><p><br></p>",
-          "_styles": {
-            "P": {
-              "font-size": "36px",
-              "text-align": "left",
-              "color": "#efefef"
-            }
-          }
+          "text2": "<p>Laure Desfossez</p><p>3BBK Design Graphique</p><p>LUCA Sint-Lucas Gand Belgique</p><p><br></p>"
         }
       ]
     },
     "2015.html": {
       "settings": {
         "title": "2015",
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "copyright, Laure Desfossez, Laure, Desfossez, project",
         "order": 2
       },
       "components": [
@@ -218,7 +218,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sanderlaureindesign.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanderlaureindesign-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -236,6 +236,13 @@
             "Theme"
           ],
           "_name": "content7",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
+            }
+          },
           "_anchor": "content7-e",
           "_params": {
             "paddingTop": "0",
@@ -244,14 +251,7 @@
           },
           "text1": "<p>Trouver la personnalité et le caractère du créateur est très important quand on voit les travaux d’un artiste. Pour devenir un graphiste la première étape est de trouver toi-même.&nbsp;</p>",
           "text2": "<p>Comment on fait ça? Par regarder autour de toi et analyser. Par demander des question et chercher des solutions. Dans la première année mes travaux parlent surtout des choses très proche de moi.&nbsp;</p>",
-          "text3": "<p>J'ai pris des images de la tête de mon père, dans la maison de mes grand-parents où dans le quai à côté de mon bâtiment.&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "25px"
-            }
-          }
+          "text3": "<p>J'ai pris des images de la tête de mon père, dans la maison de mes grand-parents où dans le quai à côté de mon bâtiment.&nbsp;</p>"
         },
         {
           "_inherit": "menu",
@@ -342,7 +342,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -359,8 +359,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -369,8 +369,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lauredesfossez-800x429.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lauredesfossez.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lauredesfossez-4-800x429.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lauredesfossez-4.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -379,8 +379,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/uitdoven-cover-800x1101.jpg",
-                "image": "@PROJECT_PATH@/assets/images/uitdoven-cover.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/uitdoven-cover-1-800x1102.jpg",
+                "image": "@PROJECT_PATH@/assets/images/uitdoven-cover-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -389,8 +389,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lauredesfossez-1-800x659.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lauredesfossez-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lauredesfossez-5-800x659.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lauredesfossez-5.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -399,10 +399,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lauredesfossez-3-800x668.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lauredesfossez-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lauredesfossez-6-800x668.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lauredesfossez-6.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -419,10 +419,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lauredesfossez-2-800x593.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lauredesfossez-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lauredesfossez-7-800x593.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lauredesfossez-7.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -442,7 +442,7 @@
     "2016.html": {
       "settings": {
         "title": "2016",
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "copyright, Laure Desfossez, Laure, Desfossez, titel project",
         "order": 3
       },
       "components": [
@@ -535,7 +535,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -549,7 +549,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mg-5.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -564,7 +564,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-13.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -578,7 +578,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-14.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -606,7 +606,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-15.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -620,7 +620,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-16.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -634,7 +634,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-17.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -647,8 +647,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-4.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mg-18.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -683,8 +683,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tarkovsky-800x1155.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tarkovsky.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tarkovsky-3-800x1155.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tarkovsky-3.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -693,8 +693,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tarkovsky-1-800x1155.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tarkovsky-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tarkovsky-4-800x1155.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tarkovsky-4.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -703,8 +703,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tarkovsky-2-800x1155.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tarkovsky-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tarkovsky-5-800x1155.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tarkovsky-5.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -819,7 +819,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header2",
@@ -847,7 +847,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc04035.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc04035-1.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -886,7 +886,7 @@
             }
           },
           "title": "QUOI JE REPRESENTE",
-          "text": "Finalement mes travaux représente une vision. Une sorte d’opinion sur les événements dans ma vie. La première chose qu’on voit est le noir et le blanc qui retourne tout le temps. Mes travaux sont très calme et précies. Le concept est très important dans touts les projets. La vie et les sentiments des gens sont des sujets qui reviennent. J’aime me remplacer dans la tête d’un autre et trouver ses pensées. <br>",
+          "text": "Finalement mes travaux représentent une vision. Une sorte d’opinion sur les événements dans ma vie. La première chose qu’on voit est le noir et le blanc qui tourne tout le temps. Mes travaux sont très calme et précies. Le concept est très important dans touts les projets. La vie et les sentiments des gens sont des sujets qui reviennent. J’aime me remplacer dans la tête d’un autre et trouver ses pensées. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -911,7 +911,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04020-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04020-3.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -925,7 +925,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04031-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04031-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -939,7 +939,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04029-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04029-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -953,7 +953,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04018-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04018-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -967,7 +967,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04017-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04017-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -981,7 +981,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04033-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04033-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -994,8 +994,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc04012-1.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc04012-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1009,7 +1009,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04003-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04003-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1022,8 +1022,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04027-1.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc04027-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1141,7 +1141,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2016.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2015 - 2016</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016.html\" target=\"_blank\">Je m'interesse à</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"2015.html\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">2014 - 2015</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2015.html\" target=\"_blank\">Je suis<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">2016 - 2017</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017.html\" target=\"_blank\">Je représente</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\" aria-expanded=\"false\">Typographie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" target=\"_blank\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1189,7 +1189,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/biblio-enqute.jpg",
+              "src": "@PROJECT_PATH@/assets/images/biblio-enqute-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1205,7 +1205,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cecille.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cecille-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1221,7 +1221,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/template-spreads-plaat.jpg",
+              "src": "@PROJECT_PATH@/assets/images/template-spreads-plaat-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
