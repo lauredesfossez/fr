@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2017.html",
+    "currentPage": "index.html",
     "name": "Portfolio 3 FR",
     "theme": {
       "name": "mobirise3",
@@ -92,7 +92,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_name": "ext.menu",
@@ -498,7 +498,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cccccc!important"
             }
           },
           "_name": "ext.menu",
