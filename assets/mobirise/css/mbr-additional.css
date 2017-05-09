@@ -560,6 +560,7 @@ h6,
   color: #cccccc!important;
 }
 
+
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -621,6 +622,9 @@ h6,
 #ext_menu-b .link[aria-expanded="true"],
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #cccccc!important;
+}
+#msg-box1-z .btn {
+  font-family: 'Lato', sans-serif;
 }
 
 
@@ -768,7 +772,7 @@ h6,
 }
 #ext_menu-q .link[aria-expanded="true"],
 #ext_menu-q .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #cccccc!important;
 }
 #features3-r H5 {
   color: #000000;
@@ -845,7 +849,7 @@ h6,
 }
 #ext_menu-s .link[aria-expanded="true"],
 #ext_menu-s .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #cccccc!important;
 }
 #form1-t .form-control-label {
   color: #232323;
